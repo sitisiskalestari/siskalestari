@@ -3,7 +3,7 @@ const products = [
     { id: 1, name: 'roma', price: 2000, img: 'roma malkis.jpeg' },
     { id: 2, name: 'pilus', price: 1000, img: 'pilus.jpg' },
     { id: 3, name: 'oreo mini', price: 2000, img: 'oreo mini.jpg' },
-    { id: 4, name: 'minuman', price: 2000, img: 'minuman.jpg' },
+    { id: 4, name: 'minuman', price: 2000, img: 'minuman.png' },
     { id: 5, name: 'pucuk', price: 2000, img: 'teh pucuk.jpg' },
     { id: 5, name: 'kuli', price: 2000, img: 'yakult.jpg' },
 ];
