@@ -1,11 +1,11 @@
 // Daftar produk dengan gambar
 const products = [
-    { id: 1, name: 'panther', price: 2000, img: 'roma malkis.jpeg' },
-    { id: 2, name: 'chitato', price: 1000, img: 'pilus.jpg' },
-    { id: 3, name: 'kentang goreng', price: 2000, img: 'oreo mini.jpeg' },
-    { id: 4, name: 'popcorn', price: 2000, img: 'minuman.jpg' },
-    { id: 5, name: 'roti aoka', price: 2000, img: 'roti pucuk.jpg' },
-    { id: 5, name: 'milky', price: 2000, img: 'yakult.jpg' },
+    { id: 1, name: 'roma', price: 2000, img: 'roma malkis.jpeg' },
+    { id: 2, name: 'pilus', price: 1000, img: 'pilus.jpg' },
+    { id: 3, name: 'oreo mini', price: 2000, img: 'oreo mini.jpg' },
+    { id: 4, name: 'minuman', price: 2000, img: 'minuman.jpg' },
+    { id: 5, name: 'pucuk', price: 2000, img: 'teh pucuk.jpg' },
+    { id: 5, name: 'kuli', price: 2000, img: 'yakult.jpg' },
 ];
 
 // keranjang belanja
